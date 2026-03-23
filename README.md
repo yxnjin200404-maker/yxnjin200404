@@ -8,7 +8,7 @@
 
 ## 📊 Projects
 - 📌 DF 2026 봄 단기 프로그램  
-  → https://github.com/yxnjin200404/DF_2026_spring_program
+  → https://github.com/yxnjin200404-maker/DF_2026_spring_program
 
 ## 📫 Contact
 - Email: yxnjin200404@gmail.com / duswls3247@naver.com
